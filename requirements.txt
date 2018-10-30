@@ -13,3 +13,4 @@ prettytable
 
 # visual studio code 
 pylint
+flask
