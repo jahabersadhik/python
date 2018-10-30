@@ -1,0 +1,44 @@
+----------------------------------------------------------------------------------------------------
+Blazer v0.3.2 - AMF2XML Export - October 18, 2018 11:13:05 AM UTC
+----------------------------------------------------------------------------------------------------
+Host:command98.stage.jobs2web.com
+Port:80
+Protocol:http
+Comment:null
+HTTP Request:
+<flex.messaging.io.amf.ActionMessage>
+  <version>3</version>
+  <headers/>
+  <bodies>
+    <flex.messaging.io.amf.MessageBody>
+      <targetURI>null</targetURI>
+      <responseURI>/27</responseURI>
+      <data class="object-array">
+        <flex.messaging.messages.RemotingMessage>
+          <clientId class="string">4F3C72AF-7F09-6DD9-7273-DD04AFEB727D</clientId>
+          <destination>ColdFusion</destination>
+          <messageId>7A937295-66CC-1606-374E-86E08FB1EFE5</messageId>
+          <timestamp>0</timestamp>
+          <timeToLive>0</timeToLive>
+          <headers>
+            <entry>
+              <string>DSEndpoint</string>
+              <string>my-cfamf</string>
+            </entry>
+            <entry>
+              <string>DSId</string>
+              <string>4F3C704A-B419-4415-BF11-F4B65B1F2F24</string>
+            </entry>
+          </headers>
+          <source>model.remote.remoteRoleManager</source>
+          <operation>loadRoles</operation>
+          <parameters>
+            <int>0</int>
+            <string>cc</string>
+          </parameters>
+        </flex.messaging.messages.RemotingMessage>
+      </data>
+    </flex.messaging.io.amf.MessageBody>
+  </bodies>
+</flex.messaging.io.amf.ActionMessage>
+----------------------------------------------------------------------------------------------------

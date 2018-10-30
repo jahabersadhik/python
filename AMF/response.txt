@@ -1,0 +1,300 @@
+----------------------------------------------------------------------------------------------------
+Blazer v0.3.2 - AMF2XML Export - October 18, 2018 11:35:20 AM UTC
+----------------------------------------------------------------------------------------------------
+Host:command98.stage.jobs2web.com
+Port:80
+Protocol:http
+Comment:null
+HTTP Response:
+<flex.messaging.io.amf.ActionMessage>
+  <version>3</version>
+  <headers/>
+  <bodies>
+    <flex.messaging.io.amf.MessageBody>
+      <targetURI>/27/onResult</targetURI>
+      <responseURI></responseURI>
+      <data class="flex.messaging.messages.AcknowledgeMessage">
+        <clientId class="string">4F3C72AF-7F09-6DD9-7273-DD04AFEB727D</clientId>
+        <messageId>4F4A4258-E40C-C33F-0C3B-096C49AC34C7</messageId>
+        <timestamp>1539861156132</timestamp>
+        <timeToLive>0</timeToLive>
+        <body class="flex.messaging.io.ArrayCollection">
+          <object-array>
+            <flex.messaging.io.amf.ASObject serialization="custom">
+              <unserializable-parents/>
+              <map>
+                <default>
+                  <loadFactor>0.75</loadFactor>
+                  <threshold>24</threshold>
+                </default>
+                <int>32</int>
+                <int>14</int>
+                <string>createdate</string>
+                <date>2013-02-16 08:04:00.0 UTC</date>
+                <string>lastmodifiedby</string>
+                <double>0.0</double>
+                <string>description</string>
+                <string>Command Center Top Level Role</string>
+                <string>createdbyName</string>
+                <string> </string>
+                <string>modifiedbyEmail</string>
+                <string></string>
+                <string>application</string>
+                <string>cc</string>
+                <string>permissionIDList</string>
+                <string>25,26,27,30,31,33</string>
+                <string>createdby</string>
+                <double>0.0</double>
+                <string>lastmodified</string>
+                <date>2013-02-16 08:04:00.0 UTC</date>
+                <string>name</string>
+                <string>All Permissions</string>
+                <string>modifiedbyName</string>
+                <string> </string>
+                <string>siteid</string>
+                <int>0</int>
+                <string>id</string>
+                <int>759</int>
+                <string>clientdefault</string>
+                <boolean>false</boolean>
+              </map>
+              <flex.messaging.io.amf.ASObject>
+                <default>
+                  <inHashCode>false</inHashCode>
+                  <inToString>false</inToString>
+                </default>
+              </flex.messaging.io.amf.ASObject>
+            </flex.messaging.io.amf.ASObject>
+            <flex.messaging.io.amf.ASObject serialization="custom">
+              <unserializable-parents/>
+              <map>
+                <default>
+                  <loadFactor>0.75</loadFactor>
+                  <threshold>24</threshold>
+                </default>
+                <int>32</int>
+                <int>14</int>
+                <string>createdate</string>
+                <date>2013-02-16 08:04:00.0 UTC</date>
+                <string>lastmodifiedby</string>
+                <double>0.0</double>
+                <string>description</string>
+                <string>The Site Manager role may only access configuration pages for site&apos;s associated to each user.  Users do not have access to core system configuration pages.</string>
+                <string>createdbyName</string>
+                <string> </string>
+                <string>modifiedbyEmail</string>
+                <string></string>
+                <string>application</string>
+                <string>cc</string>
+                <string>permissionIDList</string>
+                <string>27,33</string>
+                <string>createdby</string>
+                <double>0.0</double>
+                <string>lastmodified</string>
+                <date>2013-02-16 08:04:00.0 UTC</date>
+                <string>name</string>
+                <string>Site Manager</string>
+                <string>modifiedbyName</string>
+                <string> </string>
+                <string>siteid</string>
+                <int>0</int>
+                <string>id</string>
+                <int>760</int>
+                <string>clientdefault</string>
+                <boolean>true</boolean>
+              </map>
+              <flex.messaging.io.amf.ASObject>
+                <default>
+                  <inHashCode>false</inHashCode>
+                  <inToString>false</inToString>
+                </default>
+              </flex.messaging.io.amf.ASObject>
+            </flex.messaging.io.amf.ASObject>
+            <flex.messaging.io.amf.ASObject serialization="custom">
+              <unserializable-parents/>
+              <map>
+                <default>
+                  <loadFactor>0.75</loadFactor>
+                  <threshold>24</threshold>
+                </default>
+                <int>32</int>
+                <int>14</int>
+                <string>createdate</string>
+                <date>2013-02-16 08:58:00.0 UTC</date>
+                <string>lastmodifiedby</string>
+                <double>6324384.0</double>
+                <string>description</string>
+                <string>System and Workspace Only</string>
+                <string>createdbyName</string>
+                <string> </string>
+                <string>modifiedbyEmail</string>
+                <string></string>
+                <string>application</string>
+                <string>cc</string>
+                <string>permissionIDList</string>
+                <null/>
+                <string>createdby</string>
+                <double>6324384.0</double>
+                <string>lastmodified</string>
+                <date>2013-02-16 08:58:00.0 UTC</date>
+                <string>name</string>
+                <string>System and Workspace Only</string>
+                <string>modifiedbyName</string>
+                <string> </string>
+                <string>siteid</string>
+                <int>0</int>
+                <string>id</string>
+                <int>762</int>
+                <string>clientdefault</string>
+                <boolean>false</boolean>
+              </map>
+              <flex.messaging.io.amf.ASObject>
+                <default>
+                  <inHashCode>false</inHashCode>
+                  <inToString>false</inToString>
+                </default>
+              </flex.messaging.io.amf.ASObject>
+            </flex.messaging.io.amf.ASObject>
+            <flex.messaging.io.amf.ASObject serialization="custom">
+              <unserializable-parents/>
+              <map>
+                <default>
+                  <loadFactor>0.75</loadFactor>
+                  <threshold>24</threshold>
+                </default>
+                <int>32</int>
+                <int>14</int>
+                <string>createdate</string>
+                <date>2015-09-21 12:21:00.0 UTC</date>
+                <string>lastmodifiedby</string>
+                <double>0.0</double>
+                <string>description</string>
+                <string>This is the system generated default permissions role. It cannot be modified or deleted.</string>
+                <string>createdbyName</string>
+                <string> </string>
+                <string>modifiedbyEmail</string>
+                <string></string>
+                <string>application</string>
+                <string>cc</string>
+                <string>permissionIDList</string>
+                <string>27,33</string>
+                <string>createdby</string>
+                <double>0.0</double>
+                <string>lastmodified</string>
+                <date>2015-09-21 12:21:00.0 UTC</date>
+                <string>name</string>
+                <string>Workspace Only</string>
+                <string>modifiedbyName</string>
+                <string> </string>
+                <string>siteid</string>
+                <int>0</int>
+                <string>id</string>
+                <int>1063</int>
+                <string>clientdefault</string>
+                <boolean>false</boolean>
+              </map>
+              <flex.messaging.io.amf.ASObject>
+                <default>
+                  <inHashCode>false</inHashCode>
+                  <inToString>false</inToString>
+                </default>
+              </flex.messaging.io.amf.ASObject>
+            </flex.messaging.io.amf.ASObject>
+            <flex.messaging.io.amf.ASObject serialization="custom">
+              <unserializable-parents/>
+              <map>
+                <default>
+                  <loadFactor>0.75</loadFactor>
+                  <threshold>24</threshold>
+                </default>
+                <int>32</int>
+                <int>14</int>
+                <string>createdate</string>
+                <date>2014-12-08 13:12:00.0 UTC</date>
+                <string>lastmodifiedby</string>
+                <double>6324636.0</double>
+                <string>description</string>
+                <string>Referrer Parsing Editor Management </string>
+                <string>createdbyName</string>
+                <string> </string>
+                <string>modifiedbyEmail</string>
+                <string></string>
+                <string>application</string>
+                <string>cc</string>
+                <string>permissionIDList</string>
+                <null/>
+                <string>createdby</string>
+                <double>6324636.0</double>
+                <string>lastmodified</string>
+                <date>2014-12-08 13:12:00.0 UTC</date>
+                <string>name</string>
+                <string>Referrer Parsing Manager</string>
+                <string>modifiedbyName</string>
+                <string> </string>
+                <string>siteid</string>
+                <int>0</int>
+                <string>id</string>
+                <int>42900</int>
+                <string>clientdefault</string>
+                <boolean>false</boolean>
+              </map>
+              <flex.messaging.io.amf.ASObject>
+                <default>
+                  <inHashCode>false</inHashCode>
+                  <inToString>false</inToString>
+                </default>
+              </flex.messaging.io.amf.ASObject>
+            </flex.messaging.io.amf.ASObject>
+            <flex.messaging.io.amf.ASObject serialization="custom">
+              <unserializable-parents/>
+              <map>
+                <default>
+                  <loadFactor>0.75</loadFactor>
+                  <threshold>24</threshold>
+                </default>
+                <int>32</int>
+                <int>14</int>
+                <string>createdate</string>
+                <date>2015-01-06 14:01:00.0 UTC</date>
+                <string>lastmodifiedby</string>
+                <double>6328006.0</double>
+                <string>description</string>
+                <string>Role for CS Management - requirment to reset passwords</string>
+                <string>createdbyName</string>
+                <string> </string>
+                <string>modifiedbyEmail</string>
+                <string></string>
+                <string>application</string>
+                <string>cc</string>
+                <string>permissionIDList</string>
+                <null/>
+                <string>createdby</string>
+                <double>29839.0</double>
+                <string>lastmodified</string>
+                <date>2015-03-03 14:56:00.0 UTC</date>
+                <string>name</string>
+                <string>CS Management</string>
+                <string>modifiedbyName</string>
+                <string> </string>
+                <string>siteid</string>
+                <int>0</int>
+                <string>id</string>
+                <int>58000</int>
+                <string>clientdefault</string>
+                <boolean>false</boolean>
+              </map>
+              <flex.messaging.io.amf.ASObject>
+                <default>
+                  <inHashCode>false</inHashCode>
+                  <inToString>false</inToString>
+                </default>
+              </flex.messaging.io.amf.ASObject>
+            </flex.messaging.io.amf.ASObject>
+          </object-array>
+        </body>
+        <correlationId>7A937295-66CC-1606-374E-86E08FB1EFE5</correlationId>
+      </data>
+    </flex.messaging.io.amf.MessageBody>
+  </bodies>
+</flex.messaging.io.amf.ActionMessage>
+----------------------------------------------------------------------------------------------------

@@ -1,0 +1,15 @@
+# amf
+requests
+py3amf
+
+# mssql 
+pyodbc
+
+# exchange
+exchangelib
+
+# for nice print
+prettytable
+
+# visual studio code 
+pylint
