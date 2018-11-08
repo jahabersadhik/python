@@ -15,4 +15,3 @@ prettytable
 pylint
 flask
 django
-pyOpenSSL
